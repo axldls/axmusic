@@ -14,7 +14,7 @@
     display: flex;
     justify-content: center;
     font-size: 3rem;
-    transition: font-size;
+    transition: font-size 1s;
 }
 .header:hover{
     font-size: 100px;
@@ -49,7 +49,7 @@
 .main img{
     height: 210px;
     width: 210px;
-    transition: width;
+    transition: width 1s;
 }
 .main img:hover{
     width: 290px;
@@ -64,7 +64,7 @@
     box-shadow: inset;
     border-width: 3px;
     background-color: rgb(255, 255, 255); 
-    transition: width ;
+    transition: width 1s ;
 }
 .main div:hover{
     width:300px;
@@ -79,8 +79,8 @@
 .footer img{
     width: 30px;
     height: 30px;
-    transition:width ;
-    transition: height ;
+    transition:width 1s ;
+    transition: height 1s ;
 }
 .footer img:hover{
     width: 40px;
