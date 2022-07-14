@@ -53,7 +53,7 @@
     transition: width 1s;
 }
 .main img:hover{
-    width: 290px;
+    width: 280px;
 }
 .main div{
     border: solid;
