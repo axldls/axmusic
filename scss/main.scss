@@ -157,8 +157,6 @@ a{
 div{
     height: 800px;
     width: 800px;
-    border: solid;
-    border-radius: 10px;
     flex-direction: column;
 }
 img{
@@ -174,4 +172,9 @@ img{
 }
 .backgroundnegro{
     background-color: black;
+}
+.titulosh5{
+    color: rgb(110, 110, 33);
+    font-size: 30px;
+    text-decoration: none;
 }
