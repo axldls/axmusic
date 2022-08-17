@@ -1,0 +1,28 @@
+@media screen and (max-width:768px) {
+
+        .main {
+        display: none;
+        justify-content: space-evenly;
+        padding-bottom: 20px; }
+        .main a img {
+          height: 110px;
+          width: 110px;
+          transition: width 1s; }
+        .main a div {
+          border: solid;
+          height: 190px;
+          width: 130px;
+          border-color: black;
+          color: black;
+          font-size: 0.7rem;
+          box-shadow: inset;
+          border-width: 3px;
+          background-color: white;
+          transition: width 1s; }
+        .main a {
+          text-decoration: none; }      
+          .main2 img{
+            height: 300px;
+            width: 320px;
+          }
+}
