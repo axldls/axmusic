@@ -135,10 +135,6 @@
 .footer section {
   display: flex;
   justify-content: end; }
-
-.main2 {
-  display: flex;
-  justify-content: center; }
   .main2 div {
     height: 800px;
     width: 800px;
@@ -160,3 +156,15 @@
   color: #6e6e21;
   font-size: 30px;
   text-decoration: none; }
+  .a{
+    text-decoration: none;
+    color: #6e6e21;
+    font-size: 20px;
+  }
+.colorh3{
+  color: #6e6e21;
+}
+.img{
+  width: 400px;
+  height: 400px;
+}
